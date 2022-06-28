@@ -3,12 +3,6 @@ description: Clients should use this application form to request a DataCap alloc
 title: "[DataCap Application] <Organization> - <Project Name>"
 labels: 'application, Phase: Diligence'
 body:
-- type: markdown
-  value: "# Large Dataset Notary Application"
-- type: markdown
-  value: "To apply for DataCap to onboard your dataset to Filecoin, please fill out the following."
-- type: markdown
-  value: "## Core Information"
 - type: input
   id: name
   attributes:

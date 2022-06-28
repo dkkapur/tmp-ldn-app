@@ -4,14 +4,11 @@ title: "[DataCap Application] <Organization> - <Project Name>"
 labels: 'application, Phase: Diligence'
 body:
 - type: markdown
-  attributes:
-   value: "# Large Dataset Notary Application"
+  value: "# Large Dataset Notary Application"
 - type: markdown
-  attributes:
-   value: "To apply for DataCap to onboard your dataset to Filecoin, please fill out the following."
+  value: "To apply for DataCap to onboard your dataset to Filecoin, please fill out the following."
 - type: markdown
-  attributes:
-   value: "## Core Information"
+  value: "## Core Information"
 - type: input
   id: name
   attributes:
